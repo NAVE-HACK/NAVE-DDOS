@@ -15,21 +15,35 @@ This tool was created both Termux and kali linux
 # Commands
 Termux:
 -`apt update -y`
+
 -`apt upgrade -y`
+
 -`pkg install git -y`
+
 -`pkg insall python2 -y`
+
 -`git clone `
+
 -`cd NS-DDOS`
+
 -`python2 NS-DDOS.py`
+
 
 Kali Linux:
 -`apt update -y`
+
 -`apt upgrade -y`
+
 -`apt install git -y`
+
 -`apt insall python2 -y`
+
 -`git clone `
+
 -`cd NS-DDOS`
+
 -`python2 NS-DDOS.py`
+
 
 # Let's follow us 
 https://www.instagram.com/lovely_naveen_cs?igsh=ZzJxdG53Nm5idzBs
