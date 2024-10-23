@@ -48,7 +48,7 @@ port = input("Enter the port number default(8080) :  ")
 sent = 0
 while True:
      sock.sendto(bytes, (ip,port))
-     sent = sent + 1
+     sent = sent + 100
      port = port + 1
      print "Sent %s packet to %s throught port:%s"%(sent,ip,port)
      if port == 65534:
