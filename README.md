@@ -1,3 +1,8 @@
+
+   
+![image](https://github.com/user-attachments/assets/59bab72f-2e2d-45ae-88d6-837bdf928992)
+
+
 # NS-DDOS
 # Disclaimer
 This tool is only for educational purposes so,
@@ -14,35 +19,37 @@ This tool was created both Termux and kali linux
 
 # Commands
 Termux:
--`apt update -y`
 
--`apt upgrade -y`
+- `apt update -y`
 
--`pkg install git -y`
+- `apt upgrade -y`
 
--`pkg insall python2 -y`
+- `pkg install git -y`
 
--`git clone `
+- `pkg insall python2 -y`
 
--`cd NS-DDOS`
+- `git clone `
 
--`python2 NS-DDOS.py`
+- `cd NS-DDOS`
+
+- `python2 NS-DDOS.py`
 
 
 Kali Linux:
--`apt update -y`
 
--`apt upgrade -y`
+- `apt update -y`
 
--`apt install git -y`
+- `apt upgrade -y`
 
--`apt insall python2 -y`
+- `apt install git -y`
 
--`git clone `
+- `apt insall python2 -y`
 
--`cd NS-DDOS`
+- `git clone `
 
--`python2 NS-DDOS.py`
+- `cd NS-DDOS`
+
+- `python2 NS-DDOS.py`
 
 
 # Let's follow us 
