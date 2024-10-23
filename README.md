@@ -28,7 +28,7 @@ Termux:
 
 - `pkg insall python2 -y`
 
-- `git clone `
+- `git clone https://github.com/NS-HACK777/NS-DDOS.git `
 
 - `cd NS-DDOS`
 
@@ -45,7 +45,7 @@ Kali Linux:
 
 - `apt insall python2 -y`
 
-- `git clone `
+- `git clone https://github.com/NS-HACK777/NS-DDOS.git`
 
 - `cd NS-DDOS`
 
