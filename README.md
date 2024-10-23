@@ -4,20 +4,20 @@
 
 
 # NS-DDOS
-# Disclaimer
+# Disclaimer ❌❌❌
 This tool is only for educational purposes so,
 no one can't try this no permission websites
 
-# About
+# About 👍
 This is very high DDOS so,use permissions website
 DDOS (Distribution Denail Of Service)
 
-# How to use 
+# How to use 😲
 After installation this tool just type `python2 NS-DDOS.py`
 No pips are installation 
 This tool was created both Termux and kali linux
 
-# Commands
+# Commands 😍
 Termux:
 
 - `apt update -y`
@@ -52,7 +52,7 @@ Kali Linux:
 - `python2 NS-DDOS.py`
 
 
-# Let's follow us 
+# Let's follow us 👋
 https://www.instagram.com/lovely_naveen_cs?igsh=ZzJxdG53Nm5idzBs
 
 
