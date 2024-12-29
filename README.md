@@ -1,9 +1,6 @@
 
    
-![image](https://github.com/user-attachments/assets/59bab72f-2e2d-45ae-88d6-837bdf928992)
 
-
-# NS-DDOS
 # Disclaimer ❌❌❌
 This tool is only for educational purposes so,
 no one can't try this no permission websites
@@ -28,11 +25,11 @@ Termux:
 
 - `pkg insall python2 -y`
 
-- `git clone https://github.com/NS-HACK777/NS-DDOS.git `
+- `git clone https://github.com/NAVE-HACK/NAVE-DDOS.git `
 
-- `cd NS-DDOS`
+- `cd NAVE-DDOS`
 
-- `python2 NS-DDOS.py`
+- `python2 NAVE-DDOS.py`
 
 
 Kali Linux:
@@ -45,11 +42,11 @@ Kali Linux:
 
 - `apt insall python2 -y`
 
-- `git clone https://github.com/NS-HACK777/NS-DDOS.git`
+- `git clone https://github.com/NAVE-HACK/NAVE-DDOS.git`
 
-- `cd NS-DDOS`
+- `cd NAVE-DDOS`
 
-- `python2 NS-DDOS.py`
+- `python2 NAVE-DDOS.py`
 
 
 # Let's follow us 👋
